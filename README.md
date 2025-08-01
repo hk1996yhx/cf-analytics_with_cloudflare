@@ -1,4 +1,4 @@
-[English](./README.md) · **简体中文**
+[English](./README_en.md) · **简体中文**
 
 # 基于 Cloudflare + Huno + D1 的网页访客统计服务
 
