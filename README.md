@@ -1,5 +1,8 @@
 [English](./README_en.md) · **简体中文**
 
+<script defer src="//webviso.yestool.org/js/index.min.js" data-base-url="https://analytics.019960.xyz"></script>
+本页访问人次:<span id="page_pv"></span>本页访问人数:<span id="page_uv"></span>
+
 # 基于 Cloudflare + Huno + D1 的网页访客统计服务
 
 [参考演示站点](https://webviso.yestool.org/)
