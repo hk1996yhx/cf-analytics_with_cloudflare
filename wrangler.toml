@@ -5,4 +5,4 @@ compatibility_date = "2024-06-14"
 [[d1_databases]]
 binding = "DB" # available in your Worker on env.DB
 database_name = "web_analytics"
-database_id = "<unique-ID-for-your-database>"
+database_id = "b5df44a0-2495-4255-9283-7a1342726fd9"
