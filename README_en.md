@@ -1,4 +1,4 @@
-[简体中文](./README.zh-CN.md) · **English**
+[English](./README.md) · **简体中文**
 
 # Web Visitor Analytics Service Based on Cloudflare + Huno + D1
 
